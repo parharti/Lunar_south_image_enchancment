@@ -1,5 +1,5 @@
 
-## Topic1 :- Enhancment of Permanenetly Shadowed Region (PSR) of Lunar Craters Captured by OHRC of Chandrayan -2
+## Enhancment of Permanenetly Shadowed Region (PSR) of Lunar Craters Captured by OHRC of Chandrayan -2
 ### Desired Outcomes
 #### Desired Outcome: To increase SNR of the south pole of the moon surface.
 
